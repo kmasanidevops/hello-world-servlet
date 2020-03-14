@@ -98,6 +98,7 @@
         <id>nexus-releases</id>
         <url>http://localhost:8081/repository/helloworld-releases</url>
      </repository>
+  </distributionManagement>
      <snapshotRepository>
         <id>nexus-snapshots</id>
         <url>http://localhost:8081/repository/helloworld-snapshots</url>
