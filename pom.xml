@@ -96,7 +96,7 @@
   <distributionManagement>
      <snapshotRepository>
         <id>nexus-snapshots</id>
-        <url>http://localhost:8081/repository/hellloworld-snapshots</url>
+        <url>http://localhost:8081/repository/helloworld-snapshots</url>
      </snapshotRepository>
   </distributionManagement>
 </project>
