@@ -42,7 +42,7 @@ pipeline {
 
       stage('Nexus Repo') {
          steps {
-            mvn deploy
+            sh "mvn deploy"
          }
       }
 
